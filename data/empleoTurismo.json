@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "Titulo": "Agente de viajes online",
+        "Imagen":"https://www.criteo.com/es/wp-content/uploads/sites/8/2019/08/shutterstock_519101551.png",
+        "Descripcion":"-Lopez AV encargado de crear y administrar viajes turisticos internos como externos del pais"
+    },
+    {
+        "id": 2,
+        "Titulo": "Guía turístico local",
+        "Imagen":"https://www.elheraldodechiapas.com.mx/local/xikzz1-guias-de-turismo-pirataje-irregularidades/alternates/LANDSCAPE_640/Gu%C3%ADas%20de%20turismo%20pirataje%20irregularidades",
+        "Descripcion":"-SonsoTours egresado de turismo como guia nacional encargado de crear las rutas de turismo interno"
+    },
+    {
+        "id": 3,
+        "Titulo": "Administrador hotelero",
+        "Imagen":"http://www.tuproyectodevida.pe/wp-content/uploads/2022/09/habilidades-administrador-hotelero-1200x628.jpg",
+        "Descripcion":"-Hotel Las Palmeras gerente de gestion de la administracion del hotel con habilidades resaltantes para hacer el hotel mas confortable"
+    },
+    {
+        "id": 4,
+        "Titulo": "Guía de museos",
+        "Imagen":"https://cdn.aarp.net/content/aarpe/es/home/turismo/consejos-para-viajar/info-2014/secretos-guia-arte-museos/_jcr_content/root/container_main/container_body_main/container_body1/container_body_cf/container_image/articlecontentfragment/cfimage.coreimg.50.932.jpeg/content/dam/aarp/travel/travel_tips/2017/07/1140-tourists-looking-at-la-rendicion-de-breda-by-velazquez-esp.jpg",
+        "Descripcion":"-ESATours  egresado de turismo como guia nacional encargado de las rutas de los distintos museos de El Salvador"
+    },
+    {
+        "id": 5,
+        "Titulo": "Experto en marketing turístico",
+        "Imagen":"https://www.ceupe.com/images/easyblog_articles/2223/b2ap3_large_marketing-turistico.jpg",
+        "Descripcion":"-AVIANCA egresado de turismo para la publicidad y el marketing de las ventas de la empresa y que sea mas visible en todos los paises"
+    }
+]

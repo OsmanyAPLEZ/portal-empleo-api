@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "Titulo": "Investigador de mercados",
+        "Imagen":"https://www.webnexo.es/wp-content/uploads/2017/08/investigador.jpg",
+        "Descripcion":"-Super Selectos egresados de la carrera de mercadeo para gefe de zona de ventas como investigador de mercado"
+    },
+    {
+        "id": 2,
+        "Titulo": "Organizador de eventos",
+        "Imagen":"https://www.esneca.com/wp-content/uploads/organizador-de-eventos-980x653.jpeg",
+        "Descripcion":"-Metrocentro empleado para que lleve acabo los distintos eventos para mejorar la efectualidad de las ventas"
+    },
+    {
+        "id": 3,
+        "Titulo": "Analista de contenidos de Mercadotecnia",
+        "Imagen":"https://www.comunicare.es/wp-content/uploads/2021/08/analista-marketing-digital-scaled.jpg",
+        "Descripcion":"-Los 3 Pinitos egresados de la carrera de mercadeo para gefe de zona de ventas como analista de mercadotecnia"
+    },
+    {
+        "id": 4,
+        "Titulo": "Director de Mercadotecnia",
+        "Imagen":"https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/6OdKpImQcrTzt3W4RYaJpo/a5bb53fa9051957211b81887bdcbcc5f/Business-professionals-discussing-over-a-graph-1127726411_8477x5651.jpeg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000&h=",
+        "Descripcion":"-Sollto se necesita gefe de zona de mercadotecnia para administrar las ventas y hacer mejor lucro"
+    }
+]

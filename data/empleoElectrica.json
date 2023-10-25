@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "Titulo": "Armadoras de equipo eléctrico",
+        "Imagen":"https://cdn-3.expansion.mx/dims4/default/72cb262/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F97%2F76%2F5ae88b98445383092ffc8845d22a%2Fproduccion-de-baterias-de-ion-litio-para-autos-electricos.jpg",
+        "Descripcion":"-CLESSA se necesita empleados calificados para la gestion de los productos electronicos y que sea capaz de poder armarlos, testearlos y manipularlos"
+    },
+    {
+        "id": 2, 
+        "Titulo": "Centros comerciales, como jefe de mantenimiento eléctrico",
+        "Imagen":"https://aedlorotava.files.wordpress.com/2016/09/mantenimiento.jpg?w=474&h=325",
+        "Descripcion":"-El Encuentro se necesita empleados calificados para la gestion de los productos electronicos como gefe de mantenimiento de productos electronicos"
+    },
+    {
+        "id": 3,
+        "Titulo": "Tester de equipo",
+        "Imagen":"https://cuervaenergia.com/static/00d0b9aa02badcd9c816d4bfb76be83a/b7ef5/mantenimiento-electrico-industrial.webp",
+        "Descripcion":"-SELLA SV se necesita empleados calificados con poco nivel de experiencia para la manipulacion en zonas electricas y el mantenimiento en ellas"
+    },
+    {
+        "id": 4,
+        "Titulo": "Comercio",
+        "Imagen":"https://www.eleconomista.net/export/sites/prensagrafica/img/2021/08/11/comercio-electronico-4.jpg_300568980.jpg",
+        "Descripcion":"-UMBRO SV se necesita empleados con conocimientos de electricidad para la venta de productos electronicos de alta gama"
+    }
+]

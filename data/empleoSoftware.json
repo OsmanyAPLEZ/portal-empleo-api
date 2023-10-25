@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "Titulo": "Mantenimiento de computadoras",
+        "Imagen":"https://www.innovacionate.com/images/mantenimiento-pc.jpg",
+        "Descripcion":"-ASUS personal para el mantenimiento de equipo de las instalaciones y con conocimientos en redes para la instalacion y su mantenimiento"
+    },
+    {
+        "id": 2,
+        "Titulo": "Arquitecto de software",
+        "Imagen":"https://www.abiztar.com.mx/articulos/imagenes/arquitecto-de-software-01.jpg",
+        "Descripcion":"-JSWeb egresado de software para la creacion de la arquitectura de las aplicaciones empresariales"
+    },
+    {
+        "id": 3,
+        "Titulo": "Gestor y desarrollador de sistemas de información",
+        "Imagen":"http://www.tuproyectodevida.pe/wp-content/uploads/2020/12/Ingenier%C3%ADa-de-Sistemas-1200x628.jpg",
+        "Descripcion":"-SPNode egresado de software para la creacion, gestion y desarrollo de aplicaciones web, de escritorio y moviles para empresa privada"
+    },
+    {
+        "id": 4,
+        "Titulo": "Analista de datos",
+        "Imagen":"https://www.kolabtree.com/blog/wp-content/uploads/2020/09/freelance-data-analyst.jpg",
+        "Descripcion":"-Google Cloud egresado de software para la gestion, mantenimiento de servidores y analicis de base de datos relacionales"
+    }
+]
